@@ -57,19 +57,22 @@ If we go back to our end users email account we can see two messages from our IT
 <br/>
 <br/>
 <h2>Dashboard View</h2>
-Using the dashboard allows for a centralized view of all the tickets we have as an organization. After submitting numerous amount of various tickets from my end user account, I can see how many unassigned tickets, open/closed tickets, and tickets that are assigned to each member all in one place. A breakdown of the categories that are submitted the most allows us to see which ares of our organization are being reported the most. :  <br/>
-<img src="" height="80%" width="80%" alt="TickSysSim"/>
+<p align="center">
+Using the dashboard allows for a centralized view of all the tickets we have as an organization. After submitting numerous amount of various tickets from my end user account, I can see how many unassigned tickets, open/closed tickets, and tickets that are assigned to each member all in one place. A breakdown of the categories that are submitted the most allows us to see which ares of our organization are being reported the most:  <br/>
+<img src="https://image2url.com/images/1763072786186-d4cfac47-2de9-4b33-9a46-46d621935a78.png" height="80%" width="80%" alt="TickSysSim"/>
 <br/>
 <br/>
-I:  <br/>
-<img src="" height="80%" width="80%" alt="TickSysSim"/>
+<img src="https://image2url.com/images/1763072862792-461649bf-9367-4d80-8a02-8bfcada5f633.png" height="80%" width="80%" alt="TickSysSim"/>
+<br/>
+<img src="https://image2url.com/images/1763072917632-a52ff093-167e-4fe7-9ca7-d94d81219dc1.png" height="80%" width="80%" alt="TickSysSim"/>
 <br/>
 <br/>
-I:  <br/>
-<img src="" height="80%" width="80%" alt="TickSysSim"/>
+<h2>Filtering tickets</h2>
+<p align="center">
+Filtering these tickets based on different criteria such as priority/severity, category, status, date, or combining multiple attributes allows me to find a certain type or types of tickets much faster than scrolling through an entire ticket list that may be populated with low priority tickets:  <br/>
+<img src="https://image2url.com/images/1763073498815-9e46a6f7-ccaa-48f6-ba69-388cd9871b20.png" height="80%" width="80%" alt="TickSysSim"/>
 <br/>
 <br/>
-I:  <br/>
-<img src="" height="80%" width="80%" alt="TickSysSim"/>
+<img src="https://image2url.com/images/1763073526226-d37b182a-be16-46a0-bc96-f66fc31bc508.png" height="80%" width="80%" alt="TickSysSim"/>
 <br/>
-<br/>
+The filters applied to this lets me see all the tickets that are open or closed with a severity status of medium or high and are in the network, security concerns, or hardware categories:  <br/>
